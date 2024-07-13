@@ -1,4 +1,4 @@
-## Teck stack 
+## Teck stacks
 
 <p>
   &nbsp  
