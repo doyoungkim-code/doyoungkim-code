@@ -1,4 +1,4 @@
-## Hello, I'm doyoung kim.
+# Hello, I'm doyoung.
 
 ## Teck stacks
 
