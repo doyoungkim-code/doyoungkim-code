@@ -1,5 +1,3 @@
-# Hello, I'm doyoung.
-
 ## Teck stacks
 
 <p>
