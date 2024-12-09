@@ -22,5 +22,6 @@
          <a href=https://dyomyo.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dyomyo.tistory.com/"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    </div>
-    
+</div>
+
+![doyoungkim-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoungkim-code&show_icons=true&theme=dracula)
