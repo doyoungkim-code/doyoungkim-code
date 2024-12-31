@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 상상하는 모든 것들을 즐겁게 만들어내는 개발자가 되고 싶습니다!🔥🔥👏 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Push yourself, because no one else is going to do for you. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -22,6 +22,11 @@
          <a href=https://dyomyo.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dyomyo.tistory.com/"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Experience </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> - Department of Information & Communication Engineering, Yeungnam University<br> - 42 Gyeongsan </div>
+    </div>
+    <br><br>
 </div>
 
 ![doyoungkim-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoungkim-code&show_icons=true&theme=dracula)
