@@ -21,8 +21,7 @@
          <a href=https://www.instagram.com/k_doyoung_im/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/k_doyoung_im/"> </a>
          <a href=https://velog.io/@doyoungkim-code/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@doyoungkim-code/posts"> </a>
          <a href=https://blog.naver.com/ehehkwat1> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/ehehkwat1"> </a>
-         
-          </div>  <br> 
+    </div>  <br> 
     <div style="text-align: left;">  </div> 
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Experience </h2>  
