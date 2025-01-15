@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Push yourself, because no one else is going to do for you. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> "Push yourself, because no one else is going to do for you." </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
