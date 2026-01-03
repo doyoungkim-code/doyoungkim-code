@@ -25,7 +25,7 @@
     <div style="text-align: left;">  </div> 
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Experience </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> - Department of Information & Communication Engineering, Yeungnam University<br> - 42 Gyeongsan </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> - Department of Information & Communication Engineering, Yeungnam University<br> - 42 Gyeongsan - SSAFY 14th </div>
     </div>
     <br><br>
 </div>
