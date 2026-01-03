@@ -29,5 +29,3 @@
     </div>
     <br><br>
 </div>
-
-![doyoungkim-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoungkim-code&show_icons=true&theme=dracula)
