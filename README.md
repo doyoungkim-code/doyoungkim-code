@@ -31,11 +31,11 @@
   <tr>
     <td align="center">🥇</td>
     <td><b>SSAFY 자율 프로젝트 1위</b> (11개 팀)</td>
-    <td align="center" rowspan="2"><a href="https://github.com/doyoungkim-code/Bunmin">Bunmin</a></td>
+    <td align="center" rowspan="2"><a href="https://github.com/doyoungkim-code/Bunmin">번역의 민족</a></td>
   </tr>
   <tr>
     <td align="center">🥉</td>
-    <td><b>전국 전시발표회 3위</b> (117개 팀)</td>
+    <td><b>SSAFY 전국 전시발표회 3위</b> (117개 팀)</td>
   </tr>
 </table>
 
@@ -47,10 +47,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 </p>
@@ -60,19 +57,13 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white">
 </p>
 
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </p>
 
 ### Database & Cache
@@ -82,19 +73,9 @@
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
 </p>
 
-### AI / ML
-<p>
-  <img src="https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
-</p>
-
 ### Real-time & Messaging
 <p>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white">
 </p>
 
@@ -103,8 +84,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
 </p>
 
 ### Collaboration
@@ -121,7 +100,7 @@
 ## 📦 Projects
 
 ### 🌐 [Bunmin (번역의 민족)](https://github.com/doyoungkim-code/Bunmin) &nbsp;🏆
-> **실시간 강의 번역 서비스.** 교수자는 평소처럼 한국어로 강의하고, 외국인 학생은 모국어 음성·자막·번역된 슬라이드를 동시에 받습니다. 원본 음성 / TTS / 자막 / 판서를 4채널로 동기화하며 **20초 이내 지연**을 보장하고, **완전 로컬(온디바이스) AI 처리**로 외부 서버 전송 없이 동작합니다.
+> **실시간 강의 번역 서비스.** 교수자는 평소처럼 한국어로 강의하고, 외국인 학생은 모국어 음성·자막·번역된 슬라이드를 동시에 받습니다. 원본 음성 / TTS / 자막 / 판서를 4채널로 동기화하며 **2초 지연**, **완전 로컬(온디바이스) AI 처리**로 외부 서버 전송 없이 동작합니다.
 >
 > `Python` `FastAPI` `Whisper` `NLLB-200` `Qwen3-VL` `Surya OCR` `React` `TypeScript` `Electron` `WebSocket` `WebRTC`
 
@@ -155,6 +134,7 @@
 ## 📫 Contact me
 
 <p>
+  <a href="mailto:ehehkwat1@naver.com"><img src="https://img.shields.io/badge/ehehkwat1@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
   <a href="https://dyomyo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
   <a href="https://www.instagram.com/k_doyoung_im/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
