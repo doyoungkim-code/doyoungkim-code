@@ -1,23 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Doyoung%20Kim%20%F0%9F%96%90%EF%B8%8F&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20On-device%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Doyoung%20Kim%20%F0%9F%96%90%EF%B8%8F&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn" />
 
-  <p>
-    <em>"Push yourself, because no one else is going to do it for you."</em>
-  </p>
+  <p><em>"Push yourself, because no one else is going to do it for you."</em></p>
 
   <img src="https://komarev.com/ghpvc/?username=doyoungkim-code&style=flat-square&color=blue" alt="profile views" />
 </div>
 
 <br>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-```text
-🎓  영남대학교 정보통신공학과
-🧑‍💻  손에 잡히는 문제를 끝까지 파고들어 제품으로 만드는 걸 좋아합니다.
-🤖  실시간/온디바이스 AI, 풀스택 웹, 데스크탑 앱까지 폭넓게 다룹니다.
-🌱  "쓸 수 있는 것"을 넘어 "왜 그렇게 동작하는지"를 이해하려 노력합니다.
-```
+손에 잡히는 문제를 끝까지 파고들어 제품으로 만드는 걸 좋아하는 개발자입니다. 실시간/온디바이스 AI, 풀스택 웹, 데스크탑 앱까지 폭넓게 다룹니다.
+
+| 기간 | 소속 / 활동 |
+|:---:|---|
+| | 🎓 영남대학교 정보통신공학과 |
+| | 💡 42 Gyeongsan (이노베이션 아카데미) |
+| | 🚀 SSAFY (삼성 청년 SW 아카데미) 14기 |
+
+<br>
+
+## 🏆 Awards
+
+🥇 **SSAFY 자율 프로젝트 1위** (11개 팀) &nbsp;·&nbsp; 🥉 **전국 전시발표회 3위** (117개 팀) &nbsp;—&nbsp; [Bunmin](https://github.com/doyoungkim-code/Bunmin)
 
 <br>
 
@@ -98,15 +103,6 @@
 
 <br>
 
-## 🏆 Awards
-
-| 🏅 | 수상 내역 | 프로젝트 |
-|:---:|---|:---:|
-| 🥇 | **SSAFY 자율 프로젝트 1위** (11개 팀 중) | [Bunmin](https://github.com/doyoungkim-code/Bunmin) |
-| 🥉 | **전국 전시발표회 3위** (117개 팀 중) | [Bunmin](https://github.com/doyoungkim-code/Bunmin) |
-
-<br>
-
 ## 📦 Projects
 
 ### 🌐 [Bunmin (번역의 민족)](https://github.com/doyoungkim-code/Bunmin) &nbsp;🏆
@@ -119,40 +115,24 @@
 >
 > `Java 21` `Spring Boot` `Spring Security` `JPA` `PostgreSQL` `Redis` `React` `Kotlin` `Swift` `Gemini` `Docker` `Nginx`
 
-### 🧊 [Cube Scheduler](https://github.com/doyoungkim-code/cube_scheduler)
-> **3D 방 컨셉의 데스크탑 스케줄러.** 가상의 가구를 클릭해 기능에 접근하는 인터랙티브 UI(모니터→타임테이블·칸반, 벽시계→대시보드, 코르크보드→습관 추적 등). 하루 144개 10분 블록 기반 시간 관리와 주간 리포트를 제공합니다.
->
-> `Electron 33` `React 19` `TypeScript` `Three.js` `React Three Fiber` `Rapier` `Zustand`
-
-### 📖 [Participatory Audiobook](https://github.com/doyoungkim-code/Participatory_Audiobook_Project)
-> **아동용 참여형 오디오북 웹 서비스.** 웹캠으로 아이의 동작을 인식해 이야기에 직접 참여하는 분기형 내러티브를 구현했습니다. 동작 인식 결과에 따라 스토리가 갈라집니다.
->
-> `JavaScript` `MediaPipe` `OpenCV` `Teachable Machine`
-
 ### ✨ Etc.
+> - [**Cube Scheduler**](https://github.com/doyoungkim-code/cube_scheduler) — 3D 방 컨셉의 데스크탑 스케줄러 `Electron` `React` `Three.js`
+> - [**Participatory Audiobook**](https://github.com/doyoungkim-code/Participatory_Audiobook_Project) — 웹캠 동작 인식 기반 아동용 참여형 오디오북 `MediaPipe` `OpenCV`
 > - [**newYearMessageBot**](https://github.com/doyoungkim-code/newYearMessageBot) — 새해 메시지를 생성하는 챗봇 `JavaScript`
 > - [**MyTistorySkin**](https://github.com/doyoungkim-code/MyTistorySkin) — 자체 제작 데스크탑 스타일 블로그 스킨 `HTML`
 > - [**Baekjoon_solve**](https://github.com/doyoungkim-code/Baekjoon_solve) · [**codetree-TILs**](https://github.com/doyoungkim-code/codetree-TILs) — 알고리즘 문제 풀이 기록 `Java` `C++`
 
 <br>
 
-## 🎓 Experience
-
-```text
-🏫  영남대학교 — 정보통신공학과
-💡  42 Gyeongsan (이노베이션 아카데미)
-🚀  SSAFY (삼성 청년 SW 아카데미) 14기
-```
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=doyoungkim-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoungkim-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doyoungkim-code&theme=tokyonight" width="80%" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doyoungkim-code&theme=tokyonight&hide_border=true" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doyoungkim-code&theme=tokyonight" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doyoungkim-code&theme=tokyonight" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=doyoungkim-code&theme=tokyonight&hide_border=true" width="80%" />
 </div>
 
 <br>
@@ -160,12 +140,6 @@
 ## 📫 Contact me
 
 <p>
-  <a href="https://velog.io/@doyoungkim-code/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
   <a href="https://dyomyo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-  <a href="https://blog.naver.com/ehehkwat1"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
   <a href="https://www.instagram.com/k_doyoung_im/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
-</div>
