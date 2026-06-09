@@ -12,17 +12,32 @@
 
 손에 잡히는 문제를 끝까지 파고들어 제품으로 만드는 걸 좋아하는 개발자입니다. 실시간/온디바이스 AI, 풀스택 웹, 데스크탑 앱까지 폭넓게 다룹니다.
 
-| 기간 | 소속 / 활동 |
-|:---:|---|
-| | 🎓 영남대학교 정보통신공학과 |
-| | 💡 42 Gyeongsan (이노베이션 아카데미) |
-| | 🚀 SSAFY (삼성 청년 SW 아카데미) 14기 |
+| 기간 | 소속 / 활동 | 상태 |
+|:---:|---|:---:|
+| 2025.07 ~ 2026.06 | 🚀 SSAFY (삼성 청년 SW AI 아카데미) 14기 | 수료 예정 |
+| 2024.02 ~ 2025.06 | 💡 42 Gyeongsan (경산 이노베이션 아카데미) | - |
+| 2018.03 ~ 2024.02 | 🎓 영남대학교 정보통신공학과 | 졸업 |
 
 <br>
 
 ## 🏆 Awards
 
-🥇 **SSAFY 자율 프로젝트 1위** (11개 팀) &nbsp;·&nbsp; 🥉 **전국 전시발표회 3위** (117개 팀) &nbsp;—&nbsp; [Bunmin](https://github.com/doyoungkim-code/Bunmin)
+<table>
+  <tr>
+    <th>🏅</th>
+    <th>수상 내역</th>
+    <th>프로젝트</th>
+  </tr>
+  <tr>
+    <td align="center">🥇</td>
+    <td><b>SSAFY 자율 프로젝트 1위</b> (11개 팀)</td>
+    <td align="center" rowspan="2"><a href="https://github.com/doyoungkim-code/Bunmin">Bunmin</a></td>
+  </tr>
+  <tr>
+    <td align="center">🥉</td>
+    <td><b>전국 전시발표회 3위</b> (117개 팀)</td>
+  </tr>
+</table>
 
 <br>
 
