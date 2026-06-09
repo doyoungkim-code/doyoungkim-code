@@ -1,31 +1,171 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=This%20is%20Doyoung's%20Github%20🖐️&animation=&fontColor=000000&fontSize=40" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> "Push yourself, because no one else is going to do for you." </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-          <br/></div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> 
-         <a href=https://dyomyo.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dyomyo.tistory.com/"> </a>
-         <a href=https://www.instagram.com/k_doyoung_im/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/k_doyoung_im/"> </a>
-         <a href=https://velog.io/@doyoungkim-code/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@doyoungkim-code/posts"> </a>
-         <a href=https://blog.naver.com/ehehkwat1> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/ehehkwat1"> </a>
-    </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Experience </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> - Department of Information & Communication Engineering, Yeungnam University<br> - 42 Gyeongsan - SSAFY 14th </div>
-    </div>
-    <br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Doyoung%20Kim%20%F0%9F%96%90%EF%B8%8F&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20On-device%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
+
+  <p>
+    <em>"Push yourself, because no one else is going to do it for you."</em>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=doyoungkim-code&style=flat-square&color=blue" alt="profile views" />
+</div>
+
+<br>
+
+## 👨‍💻 About Me
+
+```text
+🎓  영남대학교 정보통신공학과
+🧑‍💻  손에 잡히는 문제를 끝까지 파고들어 제품으로 만드는 걸 좋아합니다.
+🤖  실시간/온디바이스 AI, 풀스택 웹, 데스크탑 앱까지 폭넓게 다룹니다.
+🌱  "쓸 수 있는 것"을 넘어 "왜 그렇게 동작하는지"를 이해하려 노력합니다.
+```
+
+<br>
+
+## 🛠️ Tech Stacks
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white">
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+</p>
+
+### Database & Cache
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
+</p>
+
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+</p>
+
+### Real-time & Messaging
+<p>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white">
+</p>
+
+### DevOps & Infra
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+</p>
+
+### Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+</p>
+
+<br>
+
+## 🏆 Awards
+
+| 🏅 | 수상 내역 | 프로젝트 |
+|:---:|---|:---:|
+| 🥇 | **SSAFY 자율 프로젝트 1위** (11개 팀 중) | [Bunmin](https://github.com/doyoungkim-code/Bunmin) |
+| 🥉 | **전국 전시발표회 3위** (117개 팀 중) | [Bunmin](https://github.com/doyoungkim-code/Bunmin) |
+
+<br>
+
+## 📦 Projects
+
+### 🌐 [Bunmin (번역의 민족)](https://github.com/doyoungkim-code/Bunmin) &nbsp;🏆
+> **실시간 강의 번역 서비스.** 교수자는 평소처럼 한국어로 강의하고, 외국인 학생은 모국어 음성·자막·번역된 슬라이드를 동시에 받습니다. 원본 음성 / TTS / 자막 / 판서를 4채널로 동기화하며 **20초 이내 지연**을 보장하고, **완전 로컬(온디바이스) AI 처리**로 외부 서버 전송 없이 동작합니다.
+>
+> `Python` `FastAPI` `Whisper` `NLLB-200` `Qwen3-VL` `Surya OCR` `React` `TypeScript` `Electron` `WebSocket` `WebRTC`
+
+### 🤝 [SSABREE TIME](https://github.com/doyoungkim-code/SSABREE_TIME)
+> **SSAFY 교육생을 위한 커뮤니티 & 그룹 매칭 플랫폼.** 6명이 함께 개발했으며 웹·Android·iOS를 모두 지원합니다. Mattermost 연동 재학 인증, 실시간 채팅, 스터디/팀 매칭, AI 컨텐츠 모더레이션, FCM 푸시 알림, 포트폴리오 시스템(solved.ac 연동)을 제공합니다.
+>
+> `Java 21` `Spring Boot` `Spring Security` `JPA` `PostgreSQL` `Redis` `React` `Kotlin` `Swift` `Gemini` `Docker` `Nginx`
+
+### 🧊 [Cube Scheduler](https://github.com/doyoungkim-code/cube_scheduler)
+> **3D 방 컨셉의 데스크탑 스케줄러.** 가상의 가구를 클릭해 기능에 접근하는 인터랙티브 UI(모니터→타임테이블·칸반, 벽시계→대시보드, 코르크보드→습관 추적 등). 하루 144개 10분 블록 기반 시간 관리와 주간 리포트를 제공합니다.
+>
+> `Electron 33` `React 19` `TypeScript` `Three.js` `React Three Fiber` `Rapier` `Zustand`
+
+### 📖 [Participatory Audiobook](https://github.com/doyoungkim-code/Participatory_Audiobook_Project)
+> **아동용 참여형 오디오북 웹 서비스.** 웹캠으로 아이의 동작을 인식해 이야기에 직접 참여하는 분기형 내러티브를 구현했습니다. 동작 인식 결과에 따라 스토리가 갈라집니다.
+>
+> `JavaScript` `MediaPipe` `OpenCV` `Teachable Machine`
+
+### ✨ Etc.
+> - [**newYearMessageBot**](https://github.com/doyoungkim-code/newYearMessageBot) — 새해 메시지를 생성하는 챗봇 `JavaScript`
+> - [**MyTistorySkin**](https://github.com/doyoungkim-code/MyTistorySkin) — 자체 제작 데스크탑 스타일 블로그 스킨 `HTML`
+> - [**Baekjoon_solve**](https://github.com/doyoungkim-code/Baekjoon_solve) · [**codetree-TILs**](https://github.com/doyoungkim-code/codetree-TILs) — 알고리즘 문제 풀이 기록 `Java` `C++`
+
+<br>
+
+## 🎓 Experience
+
+```text
+🏫  영남대학교 — 정보통신공학과
+💡  42 Gyeongsan (이노베이션 아카데미)
+🚀  SSAFY (삼성 청년 SW 아카데미) 14기
+```
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=doyoungkim-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyoungkim-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doyoungkim-code&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+## 📫 Contact me
+
+<p>
+  <a href="https://velog.io/@doyoungkim-code/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+  <a href="https://dyomyo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+  <a href="https://blog.naver.com/ehehkwat1"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+  <a href="https://www.instagram.com/k_doyoung_im/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
 </div>
