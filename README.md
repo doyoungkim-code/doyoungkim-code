@@ -133,8 +133,8 @@
 
 ## 📫 Contact me
 
-<p>
-  <a href="mailto:ehehkwat1@naver.com"><img src="https://img.shields.io/badge/ehehkwat1@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
-  <a href="https://dyomyo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-  <a href="https://www.instagram.com/k_doyoung_im/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-</p>
+| 채널 | 주소 |
+|:---:|---|
+| 📧 Email | ehehkwat1@naver.com |
+| 📝 Tistory | https://dyomyo.tistory.com |
+| 📷 Instagram | https://www.instagram.com/k_doyoung_im |
